@@ -40,9 +40,11 @@ The tests cover the following requirements:
 1- Clone the repository:
      - git clone https://github.com/your-username/SauceDemo.git
      - cd SauceDemo
+
 2- Open the project in your preferred IDE.
+
 3- Make sure the required dependencies are included in your pom.xml (for Maven):
-______________________
+
 xml
 Copy code
 <dependencies>
@@ -58,7 +60,7 @@ Copy code
         <scope>test</scope>
     </dependency>
 </dependencies>
-______________________
+
 4- Ensure that the WebDriver is set up correctly in your environment.
 
 ## Acknowledgments
